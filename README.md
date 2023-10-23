@@ -3,3 +3,4 @@
 
 ## Resources on github
 * https://github.com/battermann/kids-math-quiz/tree/master
+* https://inventwithpython.com/pygame/chapter1.html
