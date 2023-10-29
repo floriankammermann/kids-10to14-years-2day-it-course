@@ -55,5 +55,5 @@
  * 13:00-17:00 pacman mit scratch
  * https://scratch.mit.edu/projects/835244705
  * https://www.sivakids.de/scratch-pacman/
- * pacman as javascript in webpage
+ * pacman as javascript in webpage https://leopardjs.com/
 
