@@ -52,6 +52,8 @@
 
  * 13:00-14:00 Lernstoff fertig
  * Einführung in Scratch https://www.youtube.com/watch?v=mxY7_JViRlQ
- * 13:00-17:00 pacman mit scratch https://www.sivakids.de/scratch-pacman/
+ * 13:00-17:00 pacman mit scratch
+ * https://scratch.mit.edu/projects/835244705
+ * https://www.sivakids.de/scratch-pacman/
  * pacman as javascript in webpage
 
