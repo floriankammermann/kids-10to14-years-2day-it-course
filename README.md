@@ -39,10 +39,12 @@
    * Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
  * 9:30-12:00
  * Codes überwinden Grenzen
- * Rechnen wie die Römer
+ * ~~Rechnen wie die Römer~~
  * Ja/Nein - Ein/Aus
  * Nullen und Einsen
  * Fingerakrobatik: binär zählen
+ * html erklären
+   * github pages https://pages.github.com/
  * Die Speicherfresser...
  * In Bilder eintauchen
  * Grobe und feine Raster
