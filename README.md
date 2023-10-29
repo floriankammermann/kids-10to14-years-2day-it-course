@@ -10,7 +10,7 @@
 
 ## Timeline
 * 9-10 create email account and explain the internet
-  * email account on gmail
+  * email account on gmail, let them send email to each other
   * schnell ans Ziel und aufgereiht
   * explain ip https://www.youtube.com/watch?v=yvyAQiiKIN8
   * check the ip address on the computer
