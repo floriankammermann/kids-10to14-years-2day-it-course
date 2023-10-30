@@ -31,6 +31,8 @@
 * 11:30-12 show OpenAI and explain it
   * https://www.youtube.com/watch?v=OvBDPP1U238
   * Use OpenAI and let the kids do example prompts
+  * https://deepai.org/
+  * https://chat.openai.com/
 
  # 2 Day
 
