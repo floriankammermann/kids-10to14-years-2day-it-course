@@ -46,6 +46,7 @@
  * Nullen und Einsen
  * Fingerakrobatik: binär zählen
  * html erklären
+   * https://www.w3schools.com/html/html_intro.asp
    * github pages https://pages.github.com/
  * Die Speicherfresser...
  * In Bilder eintauchen
